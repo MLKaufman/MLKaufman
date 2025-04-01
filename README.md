@@ -1,7 +1,19 @@
 ## Hi there 👋
 
+I am Michael Kaufman PhD, currently a Senior Research Scientist at the University of Colorado Anschutz Medical Campus.
+
+I work as an Bioinformatics Analyst for the [CU Cancer Center](https://medschool.cuanschutz.edu/colorado-cancer-center) in the [Bioinformatics and Biostatistics Shared Resource (BBSR)](https://medschool.cuanschutz.edu/bioinformaticssr). 
+
+The problems I solve:
+
+- 
+
+I code in:
+- Python :snake:
+- R :chart_with_upwards_trend:
+- Rust :crab:
 <!--
-**MLKaufman/MLKaufman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
