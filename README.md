@@ -1,30 +1,19 @@
 ## Hi there 👋
 
-I am Michael Kaufman PhD, currently a Senior Research Scientist at the University of Colorado Anschutz Medical Campus.
+I am Michael Kaufman PhD, a Senior Research Scientist at the [University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/).
 
-I work as an Bioinformatics Analyst for the [CU Cancer Center](https://medschool.cuanschutz.edu/colorado-cancer-center) in the [Bioinformatics and Biostatistics Shared Resource (BBSR)](https://medschool.cuanschutz.edu/bioinformaticssr). Currently, specializing in single-cell RNA-seq analysis and spatial transcriptomics. Previously with the RNA Biosciences Initiative (RBI) on campus.
+I work as an Bioinformatics Analyst for the [CU Cancer Center](https://medschool.cuanschutz.edu/colorado-cancer-center) in the [Bioinformatics and Biostatistics Shared Resource (BBSR)](https://medschool.cuanschutz.edu/bioinformaticssr). Currently, specializing in single-cell RNA-seq analysis and spatial transcriptomics. Previously I was an Informatics Fellow with the RNA Biosciences Initiative (RBI) on campus.
 
-How can bioinformatics help us understand cancer? By analyzing high-throughput sequencing data to find out how genes are expressed in different types of cells, and how that changes in cancer. My goal is to help researchers make sense of their data and ultimately find new ways to treat cancer.
+How does bioinformatics help us understand cancer?  
+Analyzing high-throughput sequencing data allows us to identify the genes that are expressed in different types of cells and how that changes in cancer. In particular, recent advanced in the capabilities of isolating and sequencing the genes of individual single cells has revolutionized our understanding. My goal as a scientist is to help researchers make sense of their data and ultimately find new ways to treat cancer.
 
-My work and interests include:
+My superpowers are:
+ Python :snake: |  R :chart_with_upwards_trend: | Rust :crab: | Bash :shell: | [Nextflow](https://www.nextflow.io/) :test_tube: | [Snakemake](https://snakemake.readthedocs.io/en/stable/) :snake: | [Docker](https://www.docker.com/) :whale:
 
-- Analyzing single-cell RNA-seq data to identify cell types and states
-- Understanding gene expression changes in cancer
-- Developing computational methods for spatial transcriptomics
-- Integrating multi-omics data to get a holistic view of cancer biology
-- Providing bioinformatics support for cancer researchers
-- Teaching and mentoring students and researchers in bioinformatics techniques
-- Collaborating with interdisciplinary teams to advance cancer research
-- Developing pipelines and tools for high-throughput sequencing data analysis
-- Communicating complex bioinformatics concepts to non-experts
-- Staying up-to-date with the latest advancements in bioinformatics and cancer research
-- Contributing to open-source bioinformatics projects
-- Writing and maintaining reproducible analysis workflows
-- Engaging in public outreach to promote science communication
-- Participating in conferences and workshops to share knowledge and learn from others
-- Exploring new technologies and methods in bioinformatics
+I have particular interest in using GitHub for:
 
-I code in:
-- Python :snake:
-- R :chart_with_upwards_trend:
-- Rust :crab:
+- single-cell RNA-seq analysis and visualization
+- developing computational methods for spatial transcriptomics
+- writing and maintaining reproducible pipelines and analysis workflows
+- coding bioinformatics CLI tools and libraries in Python, R, and Rust
+- contributing to open-source bioinformatics software
